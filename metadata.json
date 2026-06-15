@@ -1,0 +1,6 @@
+{
+  "name": "Atmospheric Effects Player",
+  "description": "A formal frontend application with controls to trigger snowflake and balloon full-screen animations for five seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
